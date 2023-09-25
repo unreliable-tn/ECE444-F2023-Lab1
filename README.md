@@ -6,3 +6,6 @@ Disclaimer: this repo is a clone of https://github.com/miguelgrinberg/flasky
 ##
 ** Activity 2 **\
 ![Screenshot 2023-09-25 at 02 35 42](https://github.com/unreliable-tn/ECE444-F2023-Lab1/assets/82098467/94acb51b-d5a0-4017-9809-29493232b7fc)
+##
+** Activity 3 **\
+![Screenshot 2023-09-25 at 13 43 43](https://github.com/unreliable-tn/ECE444-F2023-Lab1/assets/82098467/3042761c-5d2e-414f-a7ce-e28de6558068)
